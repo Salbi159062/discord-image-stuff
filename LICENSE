@@ -1,0 +1,8 @@
+Install: 
+
+pipenv install discord
+pipenv install tensorflow==2.14.0
+pipenv install keras==2.14.0
+pipenv install requests
+pipenv install numpy==1.24.3
+pipenv install Pillow
